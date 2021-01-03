@@ -1,0 +1,24 @@
+[
+ {
+    "id": "mutagen_cheaper",
+    "copy-from": "mutagen_flavor",
+    "type": "COMESTIBLE",
+    "name": "low grade mutagen",
+	"description": "A rare substance of uncertain origins.  Causes you to mutate. Looks poorly made and very unsafe.",
+	"healthy": -4,
+	"fun": -5,
+    "addiction_potential": 8,
+    "use_action": { "type": "mutagen", "is_strong": true }
+  },
+  {
+    "id": "mutagen_cheaper_mouse",
+    "copy-from": "mutagen_flavor",
+    "type": "COMESTIBLE",
+    "name": "low grade mouse mutagen",
+	"description": "A rare substance of uncertain origins.  Causes you to mutate. Looks poorly made and very unsafe.",
+	"healthy": -4,
+	"fun": -5,
+    "addiction_potential": 8,
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "MOUSE" }
+  }
+]

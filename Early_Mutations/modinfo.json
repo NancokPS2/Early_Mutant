@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Early_Mutations",
+    "name": "Mornin' Mutant",
+    "authors": "Nancok",
+    "description": "Adds cheaper, early game mutagens which are less healthy and less cost efficient.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
