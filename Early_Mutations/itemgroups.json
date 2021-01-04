@@ -1,7 +1,61 @@
 [
   {
-"type": "item_group",
-    "id": "science",
+    "type": "item_group",
+    "id": "sewer",
+       "entries": [
+      { "item": "mutagen_cheaper", "prob": 8 },
+      { "item": "mutagen_cheaper_mouse", "prob": 8 },
+      { "item": "mutagen_cheaper_rat", "prob": 8 },
+      { "item": "mutagen_cheaper_plant", "prob": 8 },
+      { "item": "mutagen_cheaper_insect", "prob": 8 },
+      { "item": "mutagen_cheaper_spider", "prob": 8 },
+      { "item": "mutagen_cheaper_slime", "prob": 8 },
+      { "item": "mutagen_cheaper_fish", "prob": 8 },
+      { "item": "mutagen_cheaper_beast", "prob": 8 },
+      { "item": "mutagen_cheaper_ursine", "prob": 8 },
+      { "item": "mutagen_cheaper_feline", "prob": 8 },
+      { "item": "mutagen_cheaper_lupine", "prob": 8 },
+      { "item": "mutagen_cheaper_cattle", "prob": 8 },
+      { "item": "mutagen_cheaper_cephalopod", "prob": 8 },
+      { "item": "mutagen_cheaper_bird", "prob": 8 },
+      { "item": "mutagen_cheaper_lizard", "prob": 8 },
+      { "item": "mutagen_cheaper_troglobite", "prob": 8 },
+      { "item": "mutagen_cheaper_alpha", "prob": 8 },
+      { "item": "mutagen_cheaper_medical", "prob": 8 },
+      { "item": "mutagen_cheaper_chimera", "prob": 8 },
+      { "item": "mutagen_cheaper_elfa", "prob": 8 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "chem_school",
+       "entries": [
+      { "item": "mutagen_cheaper", "prob": 8 },
+      { "item": "mutagen_cheaper_mouse", "prob": 8 },
+      { "item": "mutagen_cheaper_rat", "prob": 8 },
+      { "item": "mutagen_cheaper_plant", "prob": 8 },
+      { "item": "mutagen_cheaper_insect", "prob": 8 },
+      { "item": "mutagen_cheaper_spider", "prob": 8 },
+      { "item": "mutagen_cheaper_slime", "prob": 8 },
+      { "item": "mutagen_cheaper_fish", "prob": 8 },
+      { "item": "mutagen_cheaper_beast", "prob": 8 },
+      { "item": "mutagen_cheaper_ursine", "prob": 8 },
+      { "item": "mutagen_cheaper_feline", "prob": 8 },
+      { "item": "mutagen_cheaper_lupine", "prob": 8 },
+      { "item": "mutagen_cheaper_cattle", "prob": 8 },
+      { "item": "mutagen_cheaper_cephalopod", "prob": 8 },
+      { "item": "mutagen_cheaper_bird", "prob": 8 },
+      { "item": "mutagen_cheaper_lizard", "prob": 8 },
+      { "item": "mutagen_cheaper_troglobite", "prob": 8 },
+      { "item": "mutagen_cheaper_alpha", "prob": 8 },
+      { "item": "mutagen_cheaper_medical", "prob": 8 },
+      { "item": "mutagen_cheaper_chimera", "prob": 8 },
+      { "item": "mutagen_cheaper_elfa", "prob": 8 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "mut_lab",
        "entries": [
       { "item": "mutagen_cheaper", "prob": 8 },
       { "item": "mutagen_cheaper_mouse", "prob": 8 },
