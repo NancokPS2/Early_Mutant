@@ -15,5 +15,125 @@
     "copy-from": "mutagen_cheaper",
     "name": "low grade mouse mutagen",
     "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "MOUSE" }
+  },
+  {
+    "id": "mutagen_cheaper_rat",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade rat mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "RAT" }
+  },
+  {
+    "id": "mutagen_cheaper_plant",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade plant mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "PLANT" }
+  },
+  {
+    "id": "mutagen_cheaper_insect",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade insect mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "INSECT" }
+  },
+  {
+    "id": "mutagen_cheaper_spider",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade spider mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "SPIDER" }
+  },
+  {
+    "id": "mutagen_cheaper_slime",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade slime mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "SLIME" }
+  },
+  {
+    "id": "mutagen_cheaper_fish",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade fish mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "FISH" }
+  },
+  {
+    "id": "mutagen_cheaper_beast",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade beast mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "BEAST" }
+  },
+  {
+    "id": "mutagen_cheaper_ursine",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade bear mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "URSINE" }
+  },
+  {
+    "id": "mutagen_cheaper_feline",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade feline mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "FELINE" }
+  },
+  {
+    "id": "mutagen_cheaper_lupine",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade wolf mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "LUPINE" }
+  },
+  {
+    "id": "mutagen_cheaper_cattle",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade cattle mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "CATTLE" }
+  },
+  {
+    "id": "mutagen_cheaper_cephalopod",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade cephalopod mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "CEPHALOPOD" }
+  },
+  {
+    "id": "mutagen_cheaper_bird",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade bird mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "BIRD" }
+  },
+  {
+    "id": "mutagen_cheaper_lizard",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade lizard mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "LIZARD" }
+  }
+  {,
+    "id": "mutagen_cheaper_troglobite",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade troglobite mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "TROGLOBITE" }
+  },
+  {
+    "id": "mutagen_cheaper_alpha",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade alpha mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "ALPHA" }
+  },
+  {
+    "id": "mutagen_cheaper_medical",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade medical mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "MEDICAL" }
+  },
+  {
+    "id": "mutagen_cheaper_chimera",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade chimera mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "CHIMERA" }
+  },
+  {
+    "id": "mutagen_cheaper_elfa",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade fey mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "ELFA" }
+  },
+  {
+    "id": "mutagen_cheaper_raptor",
+    "copy-from": "mutagen_cheaper",
+    "name": "low grade raptor mutagen",
+    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "RAPTOR" }
   }
 ]
