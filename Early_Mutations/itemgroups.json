@@ -1,0 +1,21 @@
+[
+  {
+"type": "item_group",
+    "id": "science",
+    "ammo": 50,
+    "magazine": 100,
+    "items": [
+      [ "mutagen_cheaper", 8 ],
+      [ "mutagen_cheaper", 8 ],
+      [ "mutagen_cheaper", 8 ],
+      [ "mutagen_cheaper", 8 ],
+      [ "mutagen_cheaper", 8 ],
+      [ "mutagen_cheaper", 8 ],
+      [ "mutagen_cheaper", 8 ],
+      [ "mutagen_cheaper", 8 ],
+      [ "mutagen_cheaper", 8 ],
+      [ "mutagen_cheaper", 8 ]
+    ]
+  },
+  }
+]
