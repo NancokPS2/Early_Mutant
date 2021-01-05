@@ -129,11 +129,5 @@
     "copy-from": "mutagen_cheaper",
     "name": "low grade fey mutagen",
     "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "ELFA" }
-  },
-  {
-    "id": "mutagen_cheaper_raptor",
-    "copy-from": "mutagen_cheaper",
-    "name": "low grade raptor mutagen",
-    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "RAPTOR" }
   }
 ]
