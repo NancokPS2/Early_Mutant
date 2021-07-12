@@ -4,10 +4,10 @@
     "copy-from": "mutagen_flavor",
     "type": "COMESTIBLE",
     "name": "low grade mutagen",
-	"description": "A rare substance of uncertain origins.  Causes you to mutate. Looks poorly made and very unsafe.",
+	"description": "A weird substance of uncertain origins.  Causes you to mutate. Looks poorly made and very unsafe.",
 	"healthy": -4,
 	"fun": -5,
-    "addiction_potential": 2,
+    "addiction_potential": 1,
     "use_action": { "type": "mutagen", "is_strong": true }
   },
   {
@@ -121,20 +121,6 @@
 	"type": "COMESTIBLE",
     "name": "low grade troglobite mutagen",
     "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "TROGLOBITE" }
-  },
-  {
-    "id": "mutagen_cheaper_alpha",
-    "copy-from": "mutagen_cheaper",
-	"type": "COMESTIBLE",
-    "name": "low grade alpha mutagen",
-    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "ALPHA" }
-  },
-  {
-    "id": "mutagen_cheaper_medical",
-    "copy-from": "mutagen_cheaper",
-	"type": "COMESTIBLE",
-    "name": "low grade medical mutagen",
-    "use_action": { "type": "mutagen", "is_strong": true, "mutation_category": "MEDICAL" }
   },
   {
     "id": "mutagen_cheaper_chimera",
