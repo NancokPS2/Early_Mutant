@@ -2,7 +2,7 @@
   {
     "type": "item_group",
     "id": "sewer",
-       "entries": [
+       "items": [
       { "item": "mutagen_cheaper", "prob": 8 },
       { "item": "mutagen_cheaper_mouse", "prob": 8 },
       { "item": "mutagen_cheaper_rat", "prob": 8 },
@@ -29,7 +29,7 @@
   {
     "type": "item_group",
     "id": "chem_school",
-       "entries": [
+       "items": [
       { "item": "mutagen_cheaper", "prob": 8 },
       { "item": "mutagen_cheaper_mouse", "prob": 8 },
       { "item": "mutagen_cheaper_rat", "prob": 8 },
@@ -56,7 +56,7 @@
   {
     "type": "item_group",
     "id": "mut_lab",
-       "entries": [
+       "items": [
       { "item": "mutagen_cheaper", "prob": 2 },
       { "item": "mutagen_cheaper_mouse", "prob": 2 },
       { "item": "mutagen_cheaper_rat", "prob": 2 },
