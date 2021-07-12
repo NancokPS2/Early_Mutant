@@ -20,8 +20,6 @@
       { "item": "mutagen_cheaper_bird", "prob": 8 },
       { "item": "mutagen_cheaper_lizard", "prob": 8 },
       { "item": "mutagen_cheaper_troglobite", "prob": 8 },
-      { "item": "mutagen_cheaper_alpha", "prob": 8 },
-      { "item": "mutagen_cheaper_medical", "prob": 8 },
       { "item": "mutagen_cheaper_chimera", "prob": 8 },
       { "item": "mutagen_cheaper_elfa", "prob": 8 }
     ]
@@ -47,8 +45,6 @@
       { "item": "mutagen_cheaper_bird", "prob": 8 },
       { "item": "mutagen_cheaper_lizard", "prob": 8 },
       { "item": "mutagen_cheaper_troglobite", "prob": 8 },
-      { "item": "mutagen_cheaper_alpha", "prob": 8 },
-      { "item": "mutagen_cheaper_medical", "prob": 8 },
       { "item": "mutagen_cheaper_chimera", "prob": 8 },
       { "item": "mutagen_cheaper_elfa", "prob": 8 }
     ]
@@ -74,8 +70,6 @@
       { "item": "mutagen_cheaper_bird", "prob": 2 },
       { "item": "mutagen_cheaper_lizard", "prob": 2 },
       { "item": "mutagen_cheaper_troglobite", "prob": 2 },
-      { "item": "mutagen_cheaper_alpha", "prob": 2 },
-      { "item": "mutagen_cheaper_medical", "prob": 2 },
       { "item": "mutagen_cheaper_chimera", "prob": 2 },
       { "item": "mutagen_cheaper_elfa", "prob": 2 }
     ]
